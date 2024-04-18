@@ -6,7 +6,7 @@ Studentnummer: 385509
 
 GitHub brukernavn: dennigm
 
-Github repo URL: 
+Github repo URL: https://github.com/dennigm/DATA1700Oblig3DennisGM.git
 
 Fullt navn: Dennis Grønnvold Mathisen
 
