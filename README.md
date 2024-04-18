@@ -10,7 +10,7 @@ Github repo URL: https://github.com/dennigm/DATA1700Oblig3DennisGM.git
 
 Fullt navn: Dennis Grønnvold Mathisen
 
-Videolink til Prosjektet: 
+Videolink til Prosjektet: https://www.youtube.com/watch?v=x3NfXwwsvWQ
 
 Kort beskrivelse av applikasjon (5-10 setninger):
 
